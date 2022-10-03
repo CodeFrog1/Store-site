@@ -1,0 +1,353 @@
+h1.home {
+    text-align:center;
+    color:rgb(255, 145, 145);
+    border-style:outset;
+    border-color:pink;
+    background-color:red;
+    font-size:70px;
+    
+
+
+}
+
+body.home{
+    background-image:url(Store\ images/Hell.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+    
+    
+   
+    
+}
+
+img.home{
+    height:550px;
+    display: block;
+    margin-top:100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+
+ul.home{
+    border:5px outset;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+    margin-top:300px;
+}
+
+ul.home>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+    font-size:xx-large;
+
+}
+
+a.one:hover{
+    background-image:url(Store\ images/Demonology.jpg);
+}
+
+a.two:hover{
+    background-image:url(Store\ images/Summoning.jpg);
+}
+
+a.three:hover{
+    background-image:url(Store\ images/Ritual.jfif);
+}
+
+h1.demon{
+    border-style:inset;
+    text-align:center;
+    color:darkseagreen;
+    font-size:50px;
+    background-color:gray;
+}
+
+body.demon{
+    background-color:rgb(255, 126, 126);
+}
+
+h2.demon{
+    display:inline;
+    margin-left:225px;
+    font-size: 65px;
+}
+
+img.demon{
+    
+    display:block;
+    
+    margin-left:175px;
+
+    width:300px;
+    Height:250px;
+
+
+}
+
+p.demon {
+    font-size:large;
+    margin-left:70px;
+    margin-top:50px;
+
+}
+
+p.demon1{
+    margin-top:50px;
+    display:inline;
+    margin-left:75px;
+    font-size:xx-large;
+    color:rgb(109, 0, 0)
+}
+
+p.demon2{
+    text-align:center;
+    display:block;
+    margin-left:50px;
+    font-size:xx-large;
+    border-style:outset;
+    border-color:white;
+    background-color:rgb(80, 80, 228);
+    width:575px;
+    
+}
+
+ul.demon{
+    border:5px outset;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+    margin-top:300px;
+}
+
+ul.demon>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+    font-size:xx-large;
+
+}
+
+a.one1:hover{
+    background-image:url(Store\ images/Satan.jpg);
+}
+
+a.two2:hover{
+    background-image:url(Store\ images/Summoning.jpg);
+}
+
+a.three3:hover{
+    background-image:url(Store\ images/Ritual.jfif);
+}
+
+h2.demon1{
+    display:inline;
+    margin-left:225px;
+    font-size: 65px;
+}
+
+img.demon1{
+    width:300px;
+    Height:300px;
+    display:block;
+    margin-left:175px;
+
+}
+
+p.demon3{
+    margin-left:125px;
+}
+
+h2.demon2{
+    margin-bottom:0px;
+    margin-left:210px;
+    font-size: 65px;
+}
+
+
+img.demon2{
+    margin-left:160px;
+    width:400px;
+    Height:300px;
+    
+}
+
+p.demon4{
+    margin-left:110px;
+}
+
+h2.demon3{
+    Margin-bottom:0px;
+    margin-left:225px;
+    font-size:65px;
+}
+
+img.demon3{
+    margin-left:160px;
+    width:300px;
+    Height:200px;
+}
+
+p.demon5{
+    margin-left:110px;
+}
+
+body.Summon{
+    background-color:darkgray;
+}
+
+h1.Summon{
+    border-style:outset;
+    text-align:center;
+    color:pink;
+    font-size:50px;
+    background-color:brown;
+}
+
+h2.Summon{
+    margin-left:225px;
+    font-size: 65px;
+}
+
+img.Summon{
+    margin-left:180px;
+}
+
+p.Summon{
+    margin-left:125px;
+}
+
+p.Summon1{
+    margin-top:50px;
+    display:inline;
+    margin-left:125px;
+    font-size:xx-large;
+    color:rgb(109, 0, 0)
+}
+
+p.Summon2{
+    text-align:center;
+    display:block;
+    margin-left:100px;
+    font-size:xx-large;
+    border-style:outset;
+    border-color:white;
+    background-color:rgb(211, 39, 9);
+    width:575px;
+    
+}
+
+div>p.Summon2{
+    margin-left:40vw;
+}
+
+ul.Summon{
+    border:5px outset;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+    margin-top:300px;
+}
+
+ul.Summon>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+    font-size:xx-large;
+
+}
+
+a.one11:hover{
+    background-image:url(Store\ images/Satan.jpg);
+}
+
+a.two22:hover{
+    background-image:url(Store\ images/Summoning.jpg);
+}
+
+a.three33:hover{
+    background-image:url(Store\ images/Ritual.jfif);
+}
+
+h1.Ritual{
+    font-size:35px;
+    text-align:center;
+    border-style:groove;
+    border-color:black;
+    background-color:blanchedalmond;
+    color:brown;
+}
+
+body.Ritual{
+    background-color:rgb(30, 131, 68);
+}
+
+h2.Ritual{
+    margin-left:5vw;
+    font-size:60px;
+    margin-bottom:0px;
+}
+
+p.Ritual1{
+    margin-top:50px;
+    display:inline;
+    font-size:xx-large;
+    color:rgb(109, 0, 0)
+}
+
+p.Ritual2{
+    text-align:center;
+    display:block;
+    font-size:xx-large;
+    border-style:outset;
+    border-color:blanchedalmond;
+    background-color:rgb(17, 94, 30);
+    width:575px;
+    margin-bottom:200px;
+    
+}
+
+div.Ritual{
+    margin-left:25vw;
+}
+
+ul.Ritual{
+    border:5px outset;
+    list-style:none;
+    width:50%;
+    margin:auto;
+    text-align:center;
+    padding-left:0;
+    margin-top:300px;
+}
+
+ul.Ritual>li {
+    display:inline-block;
+    border-style:outset;
+    border-radius:3px;
+    font-size:xx-large;
+
+}
+
+a.one111:hover{
+    background-image:url(Store\ images/Satan.jpg);
+}
+
+a.two222:hover{
+    background-image:url(Store\ images/Summoning.jpg);
+}
+
+a.three333:hover{
+    background-image:url(Store\ images/Ritual.jfif);
+}
